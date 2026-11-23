@@ -1,0 +1,12 @@
+{
+  "players": [
+    {
+      "name": "ExamplePlayer",
+      "tier": "HT1"
+    },
+    {
+      "name": "AnotherPlayer",
+      "tier": "LT2"
+    }
+  ]
+}
